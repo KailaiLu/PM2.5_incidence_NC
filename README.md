@@ -1,1 +1,1 @@
-# PM2.5_incidence_NC
+Python codes and csv file of the main analysis for the manuscript "Projection of the PM2.5-associated excess incidence of cardiovascular diseases under China’s carbon-neutral target scenario: An integrated modeling study"
